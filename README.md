@@ -1,2 +1,2 @@
-# NotesApp
+# Jot It
 NodeJS
